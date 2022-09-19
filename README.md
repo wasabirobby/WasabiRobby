@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabirobby&show_icons=true&theme=radical&title_color=2378ad&text_color=f7fbfc&icon_color=2378ad&bg_color=0d1117)
 
 # Support
-![Discord Banner 2](https://discordapp.com/api/guilds/871846570486796380/widget.png?style=banner2)
+<a href='https://discord.gg/XJFNyMy3Bv'>![Discord Banner 2](https://discordapp.com/api/guilds/871846570486796380/widget.png?style=banner2)</a>
 
 
 
