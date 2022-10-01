@@ -1,5 +1,5 @@
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabirobby&show_icons=true&theme=radical&title_color=2378ad&text_color=f7fbfc&icon_color=2378ad&bg_color=0d1117)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasabirobby&show_icons=true&theme=radical&title_color=08701d&text_color=f7fbfc&icon_color=08701d&bg_color=0d1117)
 
 # Support
 # https://discord.gg/wasabiscripts
